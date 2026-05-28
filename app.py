@@ -1169,7 +1169,7 @@ elif page == "7. Glossary":
 
     st.dataframe(glossary, use_container_width=True)
 
-    st.markdown("###Simple Example")
+    st.markdown("### Simple Example")
 
     st.markdown(
         """
